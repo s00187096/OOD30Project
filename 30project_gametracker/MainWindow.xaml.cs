@@ -25,6 +25,9 @@ namespace _30project_gametracker
             InitializeComponent();
         }
 
-       
+        private void ComboBox_Copy2_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

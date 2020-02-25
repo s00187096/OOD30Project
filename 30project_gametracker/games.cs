@@ -80,7 +80,9 @@ Board___or_card,
         public GameGenre Genre2 { get; set; }
         public string Format { get; set; }
 
-        public int CompareTo(object obj)
+        
+		
+		public int CompareTo(object obj)
         {
             throw new NotImplementedException();
         }
