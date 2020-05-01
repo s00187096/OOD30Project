@@ -13,13 +13,15 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace _30project_gametracker
+namespace project_gametracker
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
+        private ComboBox comboBox;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -28,6 +30,16 @@ namespace _30project_gametracker
         private void ComboBox_Copy2_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
+        }
+
+        private void TextBox_Copy4_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
     }
 }

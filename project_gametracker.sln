@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30project_gametracker", "30project_gametracker\30project_gametracker.csproj", "{EF357119-0CDA-4627-B29A-1BB8F131D64B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project_gametracker", "30project_gametracker\project_gametracker.csproj", "{EF357119-0CDA-4627-B29A-1BB8F131D64B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
